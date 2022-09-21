@@ -1,0 +1,27 @@
+{
+  "name": "js_function_generrator",
+  "version": "1.0.0",
+  "description": "Understand function generator with a good use case",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmedBHameed/js_function_generrator.git"
+  },
+  "author": "Ahmed HAMEED",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhmedBHameed/js_function_generrator/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/AhmedBHameed/js_function_generrator#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
